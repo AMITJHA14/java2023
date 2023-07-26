@@ -93,7 +93,7 @@ public class Patterns {
 			for(int k=3;k>=i;k--) {
 				System.out.print("* ");
 			}
-			System.out.println("");
+			System.out.println("hello");
 		}
 	
 
